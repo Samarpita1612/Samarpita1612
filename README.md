@@ -4,7 +4,7 @@
 -  I’m looking to collaborate with people with similar interests.😊
 -  Mail me @- samarpitachowdhury257@gmail.com
 -  Pronouns: She/Her
--  Fun fact: Umm I keep introducing myself as a beginner in everything I do regardless of the fact that I might be a pro at it.😌
+-  Fun fact:I keep introducing myself as a beginner in everything I do regardless of the fact that I might be a pro at it.😶‍🌫️
 
 <!---
 Samarpita1612/Samarpita1612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
