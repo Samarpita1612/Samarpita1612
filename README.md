@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Samarpita1612
-- 👀 I’m interested in Designing,Writing and Coding from time to time.
-- 🌱 I’m currently learning a lot of things all together!!
-- 💞️ I’m looking to collaborate with people with similar interests
-- 📫 How to reach me mail me @ samarpitachowdhury257@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Umm we'll find out
+- 👋 Hi, I’m Samarpita,
+-  I’m interested in Web Designing and Dev,Writing, Reading and remaining artistic in all ways.
+-  I’m currently learning a lot of (new) things all together trying my best to be good at everything!!
+-  I’m looking to collaborate with people with similar interests.😊
+-  Mail me @- samarpitachowdhury257@gmail.com
+-  Pronouns: She/Her
+-  Fun fact: Umm I keep introducing myself as a beginner in everything I do regardless of the fact that I might be a pro at it.😌
 
 <!---
 Samarpita1612/Samarpita1612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
