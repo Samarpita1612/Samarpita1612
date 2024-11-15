@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samarpita,
--  I’m interested in Web Designing and Dev,Writing, Reading and remaining artistic in all ways.
+-  I’m interested in Web Dev and Designing, Writing, Reading and remaining creative in all ways.
 -  I’m currently learning a lot of (new) things all together trying my best to be good at everything!!
 -  I’m looking to collaborate with people with similar interests.😊
 -  Mail me @- samarpitachowdhury257@gmail.com
