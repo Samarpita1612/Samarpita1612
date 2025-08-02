@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samarpita,
-I like to tell my stories with data.
+I like to tell my stories using data.
 
 <!---
 Samarpita1612/Samarpita1612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
