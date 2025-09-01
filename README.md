@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **samarpitachowdhury257@gmail.com**
 
-- ⚡ Fun fact **I am so glad you're here**
+- ⚡ **I am so glad you're here**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
