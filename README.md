@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samarpita</h1>
+<h1 align="center">Hey, I'm Samarpita</h1>
 <h3 align="center">A passionate Data Analyst, who likes to tell her stories through data.</h3>
 
 - 🌱 I’m currently learning **SQL, Python, R, PowerBI, Tableau, Statistics, Excel**
