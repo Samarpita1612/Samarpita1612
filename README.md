@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Samarpita</h1>
 <h3 align="center">A passionate Data Analyst, who likes to tell her stories through data.</h3>
 
-- 🌱 I’m currently learning **SQL, Python, R, PowerBI, Tableau, Statistics and Excel**
+-  I’m currently learning **SQL, Python, R, PowerBI, Tableau, Statistics and Excel**
 
-- 📫 How to reach me **samarpitachowdhury257@gmail.com**
+- How to reach me **samarpitachowdhury257@gmail.com**
 
-- ⚡ **I am so glad you're here**
+-  **I am so glad you're here**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
