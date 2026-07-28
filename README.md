@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=10&pause=1000&color=F76B56&background=E7FF9700&center=true&vCenter=true&height=100&lines=Hi%2C+I'm+Samarpita+%2C+Aspiring+Data+Analyst+SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI" alt="Typing SVG" /></a>
+
 <h1 align="center">Hey, I'm Samarpita</h1>
 <h3 align="center">A passionate Data Analyst, who likes to tell her stories through data.</h3>
 
